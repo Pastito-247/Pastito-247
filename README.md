@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Martin Céspedes Galarce</h1>
 
 <p align="center">
-💻 Fullstack Developer Jr | ⚙️ React + Spring Boot | 🇨🇱 Chile
+💻 Fullstack Developer Jr | ⚙️ React + Spring Boot | 🇨🇱 Viña del Mar, Chile
 </p>
 
 ---
@@ -21,7 +21,7 @@ Actualmente busco oportunidades como **Desarrollador Web / Fullstack Junior**, d
 ## 🚀 Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,java,spring,postgres,mysql,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,java,spring,postgres,mysql,docker,git,github,postman" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ Mi objetivo es integrarme a un equipo de desarrollo donde pueda seguir perfeccio
 ## 📫 Contacto
 
 <p align="center">
-  📍 Chile • 🌐 Disponible para trabajo remoto  
+  📍 Viña del Mar, Chile • 🌐 Disponible para trabajo remoto  
 </p>
 
 <p align="center">
