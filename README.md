@@ -42,8 +42,6 @@ Desarrollo de aplicación completa con arquitectura cliente-servidor:
 * Manejo de usuarios
 * Estructura basada en servicios y controladores
 
-*(Agrega aquí tus repos reales cuando los tengas listos)*
-
 ---
 
 ## 📈 Objetivo profesional
@@ -59,9 +57,10 @@ Mi objetivo es integrarme a un equipo de desarrollo donde pueda seguir perfeccio
 </p>
 
 <p align="center">
-  ✉️ tuemail@gmail.com  
+  ✉️ mar.cespedesgar@gmail.com  
+  📱 +56938827774
   <br>
-  🔗 https://www.linkedin.com/in/tu-linkedin
+  🔗 https://www.linkedin.com/in/martin-cespedes-galarce/
 </p>
 
 ---
